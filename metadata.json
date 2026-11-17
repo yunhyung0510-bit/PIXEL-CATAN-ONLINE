@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Catan Online",
+  "description": "다크 우드 선술집 픽셀 아트 스타일의 실시간 온라인 멀티플레이 및 AI 대전 카탄 전략 보드게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
